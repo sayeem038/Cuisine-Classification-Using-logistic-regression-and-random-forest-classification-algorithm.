@@ -1,7 +1,8 @@
 # Project Name :
 Cuisine Classification Using logistic regression and random forest classification algorithm.
 
-# Objective: Develop a machine learning model to classify restaurants based on their cuisines.
+# Objective: 
+Develop a machine learning model to classify restaurants based on their cuisines.
 
 # Steps:
 
